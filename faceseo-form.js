@@ -120,7 +120,7 @@ var duan="261597089";
 var submittitle='ĐĂNG KÝ NGAY';
 var submittedform=false;
 var titleheader="ĐĂNG KÝ NHẬN BẢNG GIÁ";
-var hotline="0938793786";
+var hotline="0938890988";
 var linkhientai=window.location.href;
 var thoigianhien=120000;
 var formdiv='<div class="popup-body"><iframe id="hidden_iframethanh" name="hidden_iframethanh" onload="thanhxet()" style="display:none;"></iframe><div class="box-thanh-form"><div class="img"></div><div class="thanhform-level1"><h2><a class="close-thanhfaceseo-modal">X</a></h2></div><div id="cems-subscription" class="cems-subscription"><div class="sss-form-content thanhgform_wrapper"> <form class="form-hasBg" onsubmit="submittedform=true;" target="hidden_iframethanh" method="post" action="'+urlform+'"><div class="gform_body"><h2 class="form-title yellow-text-gradient">'+titleheader+'</h2><div class="description">					<p>Vui lòng điền chính xác các thông tin bên dưới để nhận tài liệu của dự án</p>				</div>     <ul class="thanhtop_label"> ';
