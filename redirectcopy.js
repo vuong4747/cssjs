@@ -2,7 +2,7 @@ function FSAddOriginalLink(){
     var body_element = document.getElementsByTagName('body')[0];
     var selection;
     selection = window.getSelection();
-    var pagelink = "<br/><br/>MUON COPY THI VAO DAY : <a href='http://duanhiepphuochabourview.blogspot.com/'>http://duanhiepphuochabourview.blogspot.com/"+document.location.pathname+"</a>";
+    var pagelink = "<br/><br/>BẠN ĐÃ BỊ THEO DÕI VÌ ĐI COPPY, NẾU MUỐN COPPY THÌ HÃY CHUYỂN KHOẢN 100K MÌNH SẼ GỬI CHO BẠN : <a href='http://duanhiepphuochabourview.blogspot.com/'>http://duanhiepphuochabourview.blogspot.com/"+document.location.pathname+"</a>";
     var copytext = pagelink;
     var newdiv = document.createElement('div');
     newdiv.style.position='absolute';
